@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @official-jalandhra.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Full stack development.
-- 💞️ I’m looking to collaborate on E-commerce website.
 
 <!---
 official-jalandhra/official-jalandhra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
