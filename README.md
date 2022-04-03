@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @official-jalandhra.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Full stack development.
+- 🌱 Completed my Full Stack Journey with prepbyte.
 
 <!---
 official-jalandhra/official-jalandhra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
