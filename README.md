@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @official-jalandhra.
+- 👋 Hi, I’m @Rahul-jalandhra.
 - 👀 I’m interested in web development.
 - 🌱 Completed my Full Stack Journey with prepbyte.
 
